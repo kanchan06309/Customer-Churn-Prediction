@@ -1,4 +1,5 @@
 📊Customer Churn Prediction using Machine Learning
+
 📌Overview
 
 Customer churn is a major challenge for businesses, especially subscription-based services. This project aims to predict customer churn using machine learning by analyzing key business features such as tenure, contract type, internet service, payment method, and monthly charges.
